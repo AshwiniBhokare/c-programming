@@ -13,15 +13,6 @@ int main()
     // Arr is one dimentional array which contains 5 elements each element is of type integer
     int Arr[5] = {10,20,30,40,50};
 
-
-
-
-
-
-
-
-
-
         printf("%d",Arr[0]);        // 10
 
 
